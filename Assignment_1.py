@@ -1,0 +1,1 @@
+#write a python progrm without using math module and builtin functions to calculate the factorial of a given number using the Newton-Raphson method.
